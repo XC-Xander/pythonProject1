@@ -1,2 +1,4 @@
 # pythonProject1
-自娱自乐的一个网虫的一些文件整理
+#selenium自动化测试
+#xpath解析
+#FFmpeg、Threadprocesspool测试
